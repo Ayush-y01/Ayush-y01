@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GroNext Future Pvt Ltd<br>👯 I’m looking to collaboration<br>🤝 I’m looking for help to learn more web dev<br>🌱 I’m currently learning Web dev<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on GroNext Future Pvt Ltd<br>👯 I’m looking to collaboration<br>🤝 I’m looking for help to learn more web developer<br>🌱 I’m currently learning Web dev<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
