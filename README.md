@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GroNext Future Pvt Ltd <br>👯 I’m open to collaboration on web & MERN stack projects <br>🤝  I’m looking for help to grow as a better full-stack developer<br>🌱 I’m currently learning advanced Web Development & MERN stack<br>💬 Ask me about React, Node.js, MongoDB, Express, REST APIs<br>⚡ Fun fact: I love building real-world projects more than tutorials
+🔭 I’m currently working on GroNext Future Pvt Ltd <br>👯 I’am open to collaboration on web & MERN stack projects <br>🤝  I’m looking for help to grow as a better full-stack developer<br>🌱 I’m currently learning advanced Web Development & MERN stack<br>💬 Ask me about React, Node.js, MongoDB, Express, REST APIs<br>⚡ Fun fact: I love building real-world projects more than tutorials
 
 
 ## 🌐 Socials:
